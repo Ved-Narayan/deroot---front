@@ -11,7 +11,7 @@ Requests are stored in a MongoDB database
 Application uses React for the frontend and Node.js for the backend
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+Clone the repository: git clone https://github.com/Ved-Narayan/deroot---front
 Install dependencies: npm install
 Start the backend server: node server.js
 Start the frontend server: npm start
